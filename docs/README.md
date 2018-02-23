@@ -8,7 +8,7 @@ The OpenCitations Ontology (OCO) is not yet another bibliographic ontology, rath
 
 **License:** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-**Website:** http://opencitations.net/model
+**Website:** [http://opencitations.net/model](http://opencitations.net/model)
 
 **Cite as:** Silvio Peroni, David Shotton, Fabio Vitali (2017). One year of the OpenCitations Corpus: Releasing RDF-based scholarly citation data into the Public Domain. In Proceedings of the 16th International Semantic Web Conference (ISWC 2017): 184-192. DOI: [https://doi.org/10.1007/978-3-319-68204-4_19](https://doi.org/10.1007/978-3-319-68204-4_19), OA at [https://w3id.org/people/essepuntato/papers/oc-iswc2017.html](https://w3id.org/people/essepuntato/papers/oc-iswc2017.html)
 
