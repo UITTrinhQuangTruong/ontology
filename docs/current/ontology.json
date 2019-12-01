@@ -1276,7 +1276,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
       {
-        "@value": "OCO, the OpenCitations Ontology, is not yet another bibliographic ontology, rather it is just a place where existing and complementary ontological entities from several other ontologies are grouped together for the purpose of providing descriptive metadata for the [OpenCitations Corpus (OCC)](http://opencitations.net)."
+        "@value": "OCO, the OpenCitations Ontology, is not yet another bibliographic ontology. Rather it is just a place where existing and complementary ontological entities from several other ontologies, all employed in the OpenCitations Data Model, are grouped together for the purpose of providing descriptive metadata for the OpenCitations Corpus (OCC), the OpenCitations Indexes and other OpenCitations datasets. This model is freely available for third parties to use to model their own data, either for their independent use or to permit their data, conformed to the OpenCitations Data Model, to be published on their behalf by OpenCitations."
       }
     ],
     "http://www.w3.org/2002/07/owl#priorVersion": [

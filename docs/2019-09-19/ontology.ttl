@@ -638,7 +638,7 @@ agent roles (ar), class pro:RoleInTime – roles held by agents with respect to 
     dc:title "OCO, the OpenCitations Ontology"^^xsd:string ;
     vann:preferredNamespacePrefix "oco"^^xsd:string ;
     vann:preferredNamespaceUri "https://w3id.org/oc/ontology/"^^xsd:anyURI ;
-    rdfs:comment "OCO, the OpenCitations Ontology, is not yet another bibliographic ontology, rather it is just a place where existing and complementary ontological entities from several other ontologies are grouped together for the purpose of providing descriptive metadata for the [OpenCitations Corpus (OCC)](http://opencitations.net)."^^xsd:string ;
+    rdfs:comment "OCO, the OpenCitations Ontology, is not yet another bibliographic ontology. Rather it is just a place where existing and complementary ontological entities from several other ontologies, all employed in the OpenCitations Data Model, are grouped together for the purpose of providing descriptive metadata for the OpenCitations Corpus (OCC), the OpenCitations Indexes and other OpenCitations datasets. This model is freely available for third parties to use to model their own data, either for their independent use or to permit their data, conformed to the OpenCitations Data Model, to be published on their behalf by OpenCitations."^^xsd:string ;
     owl:priorVersion <https://w3id.org/oc/ontology/2018-02-23> ;
     owl:versionIRI <https://w3id.org/oc/ontology/2019-09-19> ;
     owl:versionInfo "2.0"^^xsd:string .
